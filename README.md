@@ -1,3 +1,3 @@
 # todopy
 
-This is a simple CLI todo manager in terminal.
+This is a simple CLI todo manager.
